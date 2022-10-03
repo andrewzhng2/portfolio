@@ -80,6 +80,10 @@ header {
   color: #F7FFF7;
 }
 
+h1 {
+  font-family: 'Inconsolata', monospace;
+}
+
 /* Projects
 ----------------------------------------------*/
 .projects{
