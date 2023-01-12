@@ -19,6 +19,10 @@ body {
   line-height: 1.5;
 }
 
+span {
+  color: #317B22;
+}
+
 img {
   width: 300px;
 }
@@ -76,8 +80,8 @@ h3 {
 /* Profile
 ----------------------------------------------*/
 header {
-  background: #2F3061;
-  color: #F7FFF7;
+  background: #AFF9C9;
+  color: #67E0A3;
 }
 
 h1 {
