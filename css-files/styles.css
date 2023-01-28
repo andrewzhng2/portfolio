@@ -141,7 +141,7 @@ h1 {
 }
 
 .temp {
-  background: #253854;
+  background-image: radial-gradient(50% 176%, #253854 80%, #061922 100%);
 }
 
 /* Projects
