@@ -88,6 +88,10 @@ h1 {
   font-family: 'Inconsolata', monospace;
 }
 
+.phoneimg {
+  transform: scale(0.5);
+}
+
 .hero {
 	background-image: radial-gradient(50% 176%, #253854 80%, #061922 100%);
 	min-height: 30rem;
