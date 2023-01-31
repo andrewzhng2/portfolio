@@ -27,6 +27,10 @@ img {
   width: 300px;
 }
 
+.phoneimg {
+  transform: scale(0.4);
+}
+
 a {
   color:#FFE66D;
 }
@@ -86,10 +90,6 @@ header {
 
 h1 {
   font-family: 'Inconsolata', monospace;
-}
-
-.phoneimg {
-  transform: scale(0.5);
 }
 
 .hero {
