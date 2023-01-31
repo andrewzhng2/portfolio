@@ -29,10 +29,11 @@ img {
 
 .phoneimg {
   /*
+  transform: scale(0.4);
+  */
+
   height: 1075px;
   width: 575px;
-  */
-  transform: scale(0.4);
 }
 
 a {
