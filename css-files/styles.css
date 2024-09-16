@@ -97,7 +97,7 @@ h1 {
   font-family: 'Inconsolata', monospace;
 }
 
-.hero {
+.snowfall {
 	background-image: radial-gradient(50% 176%, #253854 80%, #061922 100%);
 	min-height: 30rem;
 	position: relative;
@@ -107,7 +107,7 @@ h1 {
 	align-content: center;
 }
 
-.hero .content {
+.snowfall .content {
 		position: relative;
 		align-self: center;
 		padding: 3rem 0;
